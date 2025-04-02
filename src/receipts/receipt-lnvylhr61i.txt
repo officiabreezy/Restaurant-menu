@@ -1,0 +1,10 @@
+
+PAYMENT RECEIPT
+-------------------
+Reference: lnvylhr61i
+Amount: 9000.00 NGN
+Status: success
+Email: isaacsegun68@gmail.com
+Date: 4/1/2025, 10:33:26 PM
+-----------------
+Thank you for your purchase!

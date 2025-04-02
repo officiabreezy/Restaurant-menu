@@ -1,0 +1,10 @@
+
+PAYMENT RECEIPT
+-------------------
+Reference: 7rl2h2m6ji
+Amount: 50.00 NGN
+Status: success
+Email: isaacsegun2055@gmail.com
+Date: 3/31/2025, 2:48:20 PM
+-----------------
+Thank you for your purchase!

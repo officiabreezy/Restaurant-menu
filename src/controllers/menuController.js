@@ -134,7 +134,7 @@ const updateMenu = async (req, res) => {
 };
 
 const getMenu = async (req, res) => {
-    const { name,category, minPrice, maxPrice, sortBy, sortOrder, page = 1, limit = 10 } = req.query;
+    const { name,category, minPrice, maxPrice, page = 1, limit = 4 } = req.query;
 
     try {
         const filters = {};
